@@ -1,0 +1,7 @@
+tensorflow-cpu
+flask
+pillow
+flask_cors
+gunicorn
+protobuf==3.19.4
+google-python-cloud-debugger

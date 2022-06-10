@@ -1,0 +1,217 @@
+{
+ "schema": {
+   "fields": [
+     { "name": "namaMakanan", "type": "string" },
+     { "name": "asalProvinsi", "type": "string" },
+     { "name": "deskripsi", "type": "string" },
+     { "name": "linkArtikel", "type": "string" }
+   ],
+   "pandas_version": "0.20.0"
+ },
+ "data": [
+   {
+     "namaMakanan": "Asinan Jakarta",
+     "asalProvinsi": "DKI Jakarta",
+     "deskripsi": "Asinan adalah sejenis makanan yang dibuat dengan cara pengacaran (melalui pengasinan dengan garam atau pengasaman dengan cuka), bahan yang diacarkan yaitu berbagai jenis sayuran dan buah-buahan.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Asinan"
+   },
+   {
+     "namaMakanan": "Ayam Betutu",
+     "asalProvinsi": "Bali",
+     "deskripsi": "Betutu adalah lauk yang terbuat dari ayam atau bebek yang utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Betutu ini telah dikenal di seluruh kabupaten di Bali.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Ayam_betutu"
+   },
+   {
+     "namaMakanan": "Ayam Bumbu Rujak",
+     "asalProvinsi": "Jawa Timur",
+     "deskripsi": "Ayam bumbu rujak adalah sebuah makanan Jawa khas yang terbuat dari daging ayam yang masih muda dan dibumbui bumbu merah yang digiling. Bumbu merah tersebut terbuat dari garam, bawang putih, bawang bombai dan cabai merah.",
+     "linkArtikel": "https://www.wikiwand.com/ms/Ayam_bumbu_rujak"
+   },
+   {
+     "namaMakanan": "Ayam Goreng Lengkuas",
+     "asalProvinsi": "Sumatera Barat",
+     "deskripsi": "Ayam goreng lengkuas merupakan makanan khas Minangkabau yang sudah menyebar hingga ke seluruh wilayah Nusantara",
+     "linkArtikel": "https://kulinear.hops.id/traktir/pr-3032157464/ayam-goreng-lengkuas-khas-minangkabau-krispy-dan-bumbu-rempah-meresap"
+   },
+   {
+     "namaMakanan": "Bika Ambon",
+     "asalProvinsi": "Sumatera Utara",
+     "deskripsi": "Bika ambon adalah penganan khas Medan, Indonesia. Terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Kini Bika Ambon dijual bukan saja rasa asli tetapi sudah ada varian rasa pandan, durian, keju, dan cokelat.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Bika_ambon"
+   },
+   {
+     "namaMakanan": "Bir Pletok",
+     "asalProvinsi": "DKI Jakarta",
+     "deskripsi": "Bir pletok merupakan minuman khas masyarakat Betawi yang sudah populer sejak zaman kolonial. Dibuat dari godokan 13 macam rempah yakni, jahe, jahe merah, sereh, kunyit, kayu secang, kayu manis, lada hitam, daun pandan, daun jeruk, biji pala, kapulaga, kembang lawang, serta cengkeh, ditambah gula dan garam.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Bir_pletok"
+   },
+   {
+     "namaMakanan": "Bubur Manado",
+     "asalProvinsi": "Sulawesi Utara",
+     "deskripsi": "Bubur Manado adalah makanan khas Indonesia dari Manado, Sulawesi Utara. Ada juga yang mengatakan tinutuan adalah makanan khas Minahasa, Sulawesi Utara. Tinutuan merupakan campuran berbagai macam sayuran, tidak mengandung daging, sehingga makanan ini bisa menjadi makanan pergaulan antarkelompok masyarakat di Manado.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Tinutuan"
+   },
+   {
+     "namaMakanan": "Es Cendol",
+     "asalProvinsi": "Jawa Barat",
+     "deskripsi": "Cendol merupakan minuman penutup es manis yang mengandung tetesan tepung beras hijau, santan, dan sirup gula aren.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Es_cendol"
+   },
+   {
+     "namaMakanan": "Es Dawet",
+     "asalProvinsi": "Jawa Tengah",
+     "deskripsi": "Minuman khas Jawa yang terbuat dari tepung beras ataupun tepung beras ketan, disajikan dengan es parut serta gula merah cair dan santan. Rasa minuman ini manis dan gurih.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Dawet"
+   },
+   {
+     "namaMakanan": "Gado Gado",
+     "asalProvinsi": "DKI Jakarta",
+     "deskripsi": "Gado-gado adalah makanan khas Jakarta berisi sayur-sayuran yang direbus, irisan telur dan tahu, serta ditaburi bawang goreng dan kerupuk. Sayur-sayuran ditambahkan dengan bumbu kacang atau saus dari kacang tanah yang telah dihaluskan yang kemudian diaduk merata.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Gado-gado"
+   },
+   {
+     "namaMakanan": "Gudeg",
+     "asalProvinsi": "Yogyakarta",
+     "deskripsi": "Gudeg adalah makanan tradisional yang terbuat dari Nangka muda (nangka) yang direbus selama beberapa jam dengan gula kelapa serta santan. Dengan dilengkapi dengan berbagai bumbu tambahan membuat Gudeg menjadi terasa manis dilidah dan memiliki rasa yang khas dan enak sesuai dengan selera masyarakat Jawa pada umumnya.",
+     "linkArtikel": "https://gudeg.net/direktori/1860/sejarah-gudeg.html"
+   },
+   {
+     "namaMakanan": "Gulai Ikan Mas",
+     "asalProvinsi": "Sumatera Barat",
+     "deskripsi": "Salah satu hidangan yang berasal dari Sumatra Barat. Hidangan ini merupakan varian dari gulai dengan bahan dasar utamanya adalah dari ikan. Ikan yang digunakan bisa ikan air laut maupun ikan air tawar, tetapi yang umum dipakai antara lain tongkol, tenggiri, kakap, dan ikan mas. Ciri khas yang menonjol dari hidangan ini adalah warna kuahnya yang kuning kental yang muncul karena penggunaan kunyit.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Gulai_masin_ikan"
+   },
+   {
+     "namaMakanan": "Keladi",
+     "asalProvinsi": "Papua",
+     "deskripsi": "Keladi Tumbuk adalah makanan pengganti nasi khas Papua. Biasanya makanan ini dinikmati bersama lauk ikan bakar dan sayur kangkung campur bunga pepaya, untuk sambalnya memakai sambal khas Papua",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Keladi_tumbuk"
+   },
+   {
+     "namaMakanan": "Kerak Telor",
+     "asalProvinsi": "DKI Jakarta",
+     "deskripsi": "Kerak telur adalah makanan asli daerah Jakarta (Betawi), dengan bahan-bahan beras ketan putih, telur ayam atau bebek, ebi (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Kerak_telor"
+   },
+   {
+     "namaMakanan": "Klappertart",
+     "asalProvinsi": "Sulawesi Utara",
+     "deskripsi": "Klapertar (dari bahasa Belanda: klappertaart; gabungan kata klapper \"kelapa\" + taart \"kue\") dikenal sebagai kue khas Manado dengan bahan dasar kelapa, tepung terigu, susu, mentega dan telur.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Klapertar"
+   },
+   {
+     "namaMakanan": "Kolak",
+     "asalProvinsi": "Sumatera Barat",
+     "deskripsi": "Kolak (atau kolek) adalah makanan penutup khas Indonesia yang berbahan dasar gula aren atau gula kelapa, santan, dan daun pandan",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Kolak"
+   },
+   {
+     "namaMakanan": "Kue Lumpur",
+     "asalProvinsi": "DKI Jakarta",
+     "deskripsi": "Kue lumpur adalah makanan ringan dengan bahan utama santan, kentang, tepung terigu, dan telur. Sebagai pewangi digunakan vanila dan sering kali diberi hiasan kismis dan kelapa muda iris di permukaannya.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Kue_lumpur"
+   },
+   {
+     "namaMakanan": "Kunyit Asam",
+     "asalProvinsi": "Jawa Tengah",
+     "deskripsi": "Jamu Kunyit asam adalah jamu yang berbahan dasar kunyit, dan asam jawa yang konon berkhasiat untuk menyegarkan tubuh atau dapat membuat tubuh menjadi dingin.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Kunir_asem"
+   },
+   {
+     "namaMakanan": "Laksa Bogor",
+     "asalProvinsi": "Bogor",
+     "deskripsi": "Laksa Bogormasakan tradisional Indonesia dari propinsi Jawa Barat. Sekilas mirip soto berkuah santan tapi Laksa Bogor isinya lebih komplit dan bervariasi. Selain suwiran ayam, Laksa Bogor juga mengandalkan cita rasa udang yang membedakannya dengan sajian soto umumnya.",
+     "linkArtikel": "https://food.detik.com/info-kuliner/d-5233180/laksa-bogor-punya-kuah-kental-dan-pakai-oncom-merah"
+   },
+   {
+     "namaMakanan": "Lumpia Semarang",
+     "asalProvinsi": "Jawa Timur",
+     "deskripsi": "Lumpia semarang adalah makanan semacam rollade yang berisi rebung, telur, dan daging ayam atau udang.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Lumpia_Semarang"
+   },
+   {
+     "namaMakanan": "Mie Aceh",
+     "asalProvinsi": "Aceh",
+     "deskripsi": "Mi aceh adalah masakan mi pedas khas Aceh di Indonesia. Mie kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut (udang dan cumi) disajikan dalam sup sejenis kari yang gurih dan pedas. Mi aceh biasanya ditaburi dengan bawang goreng dan disajikan bersama emping, potongan bawang merah, mentimun, dan jeruk nipis.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Mi_aceh"
+   },
+   {
+     "namaMakanan": "Nagasari",
+     "asalProvinsi": "Jawa Barat",
+     "deskripsi": "Kue Nagasari merupakan jenis kue basah tradisional yang sangat populer dan diwariskan dari generasi ke generasi dalam masyarakat Jawa. Umumnya, kue nagasari ini disajikan saat hari besar menurut tanggalan orang Jawa. Kenduri merupakan salah satu acara yang selalu menyediakan kue ini.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Nagasari"
+   },
+   {
+     "namaMakanan": "Papeda",
+     "asalProvinsi": "Maluku, Papua",
+     "deskripsi": "Papeda adalah makanan berupa bubur sagu khas Maluku dan Papua yang biasanya disajikan dengan ikan tongkol atau mubara yang dibumbui dengan kunyit.[1] Papeda berwarna putih dan bertekstur lengket menyerupai lem dengan rasa yang tawar.[1] Papeda merupakan makanan yang kaya serat, rendah kolesterol, dan cukup bernutrisi. ",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Papeda"
+   },
+   {
+     "namaMakanan": "Pempek Palembang",
+     "asalProvinsi": "Sumatera Selatan",
+     "deskripsi": "Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Pempek"
+   },
+   {
+     "namaMakanan": "Rawon Surabaya",
+     "asalProvinsi": "Jawa Timur",
+     "deskripsi": "Rawon adalah masakan Indonesia berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek. Rawon, meskipun dikenal sebagai masakan khas Jawa Timur",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Rawon"
+   },
+   {
+     "namaMakanan": "Rendang",
+     "asalProvinsi": "Sumatera Barat",
+     "deskripsi": "Rendang adalah masakan yang berbahan dasar daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Rendang"
+   },
+   {
+     "namaMakanan": "Rujak Cingur",
+     "asalProvinsi": "Jawa Timur",
+     "deskripsi": "Rujak cingur adalah salah satu makanan tradisional yang mudah ditemukan di daerah Jawa Timur, terutama di daerah asalnya Surabaya. Dalam bahasa Jawa kata cingur berarti \"mulut\", hal ini merujuk pada bahan irisan mulut atau moncong sapi yang direbus dan dicampurkan ke dalam hidangan.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Rujak_cingur"
+   },
+   {
+     "namaMakanan": "Sate Ayam Madura",
+     "asalProvinsi": "Jawa Timur",
+     "deskripsi": "Sate Madura adalah sate yang memiliki bumbu khas Madura. Sate Madura biasanya terbuat dari ayam. Madura selain terkenal sebagai pulau garam, juga terkenal dengan satenya. Sate madura sudah terkenal di seluruh Nusantara, Sate Madura dapat ditemukan hampir di semua daerah khususnya di kota besar seperti Medan, Jakarta, Bandung, dan Surabaya.",
+     "linkArtikel": "https://www.wikiwand.com/id/Sate_Madura"
+   },
+   {
+     "namaMakanan": "Sate Lilit",
+     "asalProvinsi": "Bali",
+     "deskripsi": "Sate Lilit adalah sebuah varian sate asal Bali. Sate ini terbuat dari daging babi, ikan, ayam, daging sapi, atau bahkan kura-kura yang dicincang, kemudian dicampur dengan parutan kelapa, santan, jeruk nipis, bawang merah, dan merica.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Sate_lilit"
+   },
+   {
+     "namaMakanan": "Sate Maranggi",
+     "asalProvinsi": "Jawa Barat",
+     "deskripsi": "Sat\u00e9 maranggi adalah makanan asli Sunda di Indonesia yang biasa ditemukan di daerah Jawa Barat, khususnya Purwakarta. Sate maranggi merupakan makanan khas Sunda. Istilah maranggi sendiri dalam bahasa Sunda merupakan istilah petukangan, yakni \"seorang ahli pembuat sarung keris\".",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Sate_maranggi"
+   },
+   {
+     "namaMakanan": "Soerabi",
+     "asalProvinsi": "Jawa Barat",
+     "deskripsi": "Soerabi merupakan jajanan pasar tradisional dari Jawa Barat yang disajikan dengan isian oncom dan asinan lainnya.",
+     "linkArtikel": "https://www.wikiwand.com/id/Serabi"
+   },
+   {
+     "namaMakanan": "Soto Ayam Lamongan",
+     "asalProvinsi": "Jawa TImur",
+     "deskripsi": "Soto lamongan adalah soto khas Lamongan, Jawa Timur, yang saat ini telah menyebar ke berbagai daerah di Indonesia. Soto Lamongan adalah salah satu soto paling gurih karena mempunyai ciri khas koya udang yang tidak di miliki oleh soto lainnya.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Soto_lamongan"
+   },
+   {
+     "namaMakanan": "Soto Banjar",
+     "asalProvinsi": "Kalimantan Selatan",
+     "deskripsi": "Soto Banjar adalah soto khas suku Banjar, Kalimantan Selatan dengan bahan utama ayam serta memiliki aroma harum rempah-rempah seperti kayu manis, biji pala, dan cengkih.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Soto_Banjar"
+   },
+   {
+     "namaMakanan": "Tahu Telur",
+     "asalProvinsi": "Jawa Timur",
+     "deskripsi": "Tahu tek adalah salah satu masakan khas kota Surabaya. Tahu tek terdiri atas tahu goreng setengah matang dan lontong yang dipotong kecil-kecil dengan alat gunting dan garpu untuk memegang tahu atau lontong, telur, kentang goreng, sedikit taoge, dan irisan ketimun dipotong kecil-panjang (seperti acar), lalu setelah disiram dengan saus kacang dengan campuran petis di atasnya, ditaburkan kerupuk udang yang bentuknya kecil dengan diameter sekitar 3 cm.",
+     "linkArtikel": "https://id.wikipedia.org/wiki/Tahu_tek"
+   }
+ ]
+}
