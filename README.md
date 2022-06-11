@@ -41,4 +41,24 @@ gcloud run deploy foedtra-ml \
  --execution-environment gen2 \
  ```
  
- 
+ # HTTP request methods & URL PATH
+ ### ```POST      /predict```
+ ##### Content-Type: application/json
+ ```
+ {
+  "image" : "{image in base64 format}"
+ }
+ ```
+ ##### Result:
+ ```
+{
+  "msg": "success",
+  "prediction": {
+      "asalProvinsi": "Jawa Tengah",
+      "deskripsi": "Minuman khas Jawa yang terbuat dari tepung beras ataupun tepung beras ketan, disajikan dengan es parut serta gula merah cair dan santan. Rasa minuman ini manis dan gurih.",
+      "keyword": "es_dawet",
+      "linkArtikel": "https://id.wikipedia.org/wiki/Dawet",
+      "namaMakanan": "Es Dawet"
+  }
+}
+```
