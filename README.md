@@ -54,12 +54,13 @@ gcloud run deploy foedtra-ml \
  # HTTP request methods & URL PATH
  ### ```POST      /predict```
  ##### Content-Type: application/json
+ ##### Body :
  ```
  {
   "image" : "{image in base64 format}"
  }
  ```
- ##### Result:
+ ##### Response :
  ```
 {
   "msg": "success",
@@ -74,13 +75,13 @@ gcloud run deploy foedtra-ml \
 ```
 
  ### ```GET      /```
- ##### Result:
+ ##### Response :
  ```
 hello world
 ```
 
  ### ```GET      /test```
- ##### Result:
+ ##### Response :
  ```
 testing
 ```
