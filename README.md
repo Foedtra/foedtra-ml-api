@@ -6,6 +6,12 @@
 - Cloud Run
 - Dockerfile
 - Cloud SDK
+- tensorflow-cpu
+- pillow
+- flask_cors
+- gunicorn
+- protobuf
+- google-python-cloud-debugger
 
 # Design
 
