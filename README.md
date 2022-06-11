@@ -7,6 +7,10 @@
 - Dockerfile
 - Cloud SDK
 
+# Design
+
+![ML API Predict](https://github.com/Foedtra/PROFILE-C22-PS209-Product-Based-Capstone/blob/main/CC/Google%20Cloud%20Foedtra%20Final%202%20_%20For%20Image%20Predict.png?raw=true)
+
 # Deploy
 ## Build Docker image Cloud shell
 - Docker build -t gcr.io/$MY_PROJECT_ID/foedtra-ml:v1 -f Dockerfile .
