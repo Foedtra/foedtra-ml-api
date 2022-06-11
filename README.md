@@ -62,3 +62,15 @@ gcloud run deploy foedtra-ml \
   }
 }
 ```
+
+ ### ```GET      /```
+ ##### Result:
+ ```
+hello world
+```
+
+ ### ```GET      /test```
+ ##### Result:
+ ```
+testing
+```
