@@ -2,13 +2,14 @@ import base64
 from flask import Flask, request, jsonify
 from model import Model
 from flask_cors import CORS
-try:
-  import googleclouddebugger
-  googleclouddebugger.enable(
-    breakpoint_enable_canary=True
-  )
-except ImportError:
-  pass
+import urllib.request, io
+# try:
+#   import googleclouddebugger
+#   googleclouddebugger.enable(
+#     breakpoint_enable_canary=True
+#   )
+# except ImportError:
+#   pass
 
 app = Flask(__name__)
 CORS(app, supports_credentials=True)
@@ -34,14 +35,13 @@ def process_image():
         image = request_image.get('image')
         # image = base64.b64encode(open(image_path, 'rb').read())
 
-
         model = Model()
         prediction = model.predict(image)
         # convert server response into JSON format.
         return jsonify({'msg': 'success', 'prediction': prediction})
 
     except Exception as e:
-        return jsonify({'msg': 'error', 'error': e})
+        return jsonify({'msg': 'error'})
 
 
 if __name__ == '__main__':

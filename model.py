@@ -1,9 +1,8 @@
-import base64
-import io
 import json
 import os
 import tensorflow as tf
 from PIL import Image
+import urllib.request
 from keras_preprocessing import image
 from keras.models import load_model
 
@@ -30,16 +29,16 @@ class Model:
         return dataset
 
 
-    def predict(self, img):
+    def predict(self, image):
         dataset = self._load_json()
         model = self._load_model()
-
-        img = Image.open(io.BytesIO(base64.b64decode(img)))
+        urllib.request.urlretrieve(image, 'image.jpg')
+        img = Image.open('image.jpg')
         img = self._normalizeImage(img)
         predictions = model.predict(img)
         predictions = tf.argmax(predictions[0])  
         prediction = dataset['data'][predictions]
-
+        os.remove('image.jpg')
         return prediction
     
 
