@@ -41,6 +41,7 @@ def process_image():
         return jsonify({'msg': 'success', 'prediction': prediction})
 
     except Exception as e:
+        print(e)
         return jsonify({'msg': 'error'})
 
 
