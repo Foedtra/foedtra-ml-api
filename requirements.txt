@@ -3,5 +3,4 @@ flask
 pillow
 flask_cors
 gunicorn
-protobuf==3.19.4
 keras_preprocessing
