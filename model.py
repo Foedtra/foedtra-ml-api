@@ -13,7 +13,7 @@ class Model:
         self.model_path = model_path
 
     def _load_model(self):
-        return tf.keras.models.load_model(self.model_path)
+        return tf.saved_model.load(self.model_path)
 
     def _normalizeImage(self, img):
         img = tf.keras.preprocessing.image.smart_resize(img, (224, 224))
