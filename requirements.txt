@@ -3,3 +3,4 @@ flask-cors
 keras_preprocessing
 tensorflow-cpu
 pillow
+gunicorn
