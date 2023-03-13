@@ -7,12 +7,13 @@ from keras_preprocessing import image
 from keras.models import load_model
 
 
+
 class Model:
     def __init__(self, model_path=os.path.join(os.getcwd(), 'model')):
         self.model_path = model_path
 
     def _load_model(self):
-        return load_model(self.model_path)
+        return tf.keras.models.load_model(self.model_path)
 
     def _normalizeImage(self, img):
         img = tf.keras.preprocessing.image.smart_resize(img, (224, 224))
